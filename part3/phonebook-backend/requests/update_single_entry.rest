@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/persons/5f63f3510804db6dcc649288
+Content-Type: application/json
+
+{
+    "name": "Uchiha Madara",
+    "number": "67676767"
+}
